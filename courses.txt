@@ -1,0 +1,4 @@
+COS101|comp|2
+COS201|comp2|3
+MTH201|cal|3
+COJ267|3|2
