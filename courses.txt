@@ -1,4 +1,7 @@
-COS101|comp|2
-COS201|comp2|3
-MTH201|cal|3
-COJ267|3|2
+COS203|Discrete Structures|2
+MTH201|Mathematical methods|3
+SEN201|Introduction to Software Engineering|2
+IFT211|Digital logic design|2
+ENT212|Entrepreneurship|2
+MIVA-SEN203|Sotware Requirement Engineering|3
+SEN299|SIWES|3

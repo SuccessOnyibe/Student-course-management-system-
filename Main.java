@@ -24,7 +24,7 @@ public class Main {
         // Keep displaying the menu until the user selects Exit.
         boolean running = true;
         while (running) {
-            System.out.println("\n===== STUDENT COURSE MANAGEMENT SYSTEM =====");
+            System.out.println("\n STUDENT COURSE MANAGEMENT SYSTEM");
             System.out.println("1. Add Course");
             System.out.println("2. View All Courses");
             System.out.println("3. Search Course by Code");
@@ -165,7 +165,7 @@ public class Main {
 
     // Return true when saving succeeds and false if an I/O error occurs.
     public static boolean saveCourses(ArrayList<Course> courses) {
-        // Build one text record per course: CODE|TITLE|UNITS.
+        
         Path tempFile = Path.of("courses.tmp");
         ArrayList<String> lines = new ArrayList<>();
         for (Course course : courses) {
